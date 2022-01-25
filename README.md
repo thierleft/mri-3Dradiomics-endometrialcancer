@@ -40,6 +40,6 @@ Repeat radiomics features extractions in segmented VOIs knowing which subject is
 Format Radiomics Features for Analysis.
 Save features in separate files according to classification categories (e.g. benign vs. malignant) and excluding unreproducible features prior to further analyses.
 
-<img src="images/Picture1.png" alt="Radiomics pipeline" width="30%" />
+<img src="image/Picture1.png" alt="Radiomics pipeline" width="70%" />
 
 
